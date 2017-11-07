@@ -2,5 +2,5 @@
 /*
 
 # Whitelist some files
-!.gitignore
-!README.md
+!/.gitignore
+!/README.md
